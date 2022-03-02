@@ -8,8 +8,8 @@ from redis that might be useful in other Terraform configuration, or writing dat
 
 ## Requirements
 
--	[Terraform](https://www.terraform.io/downloads.html) >= 0.13.x
--	[Go](https://golang.org/doc/install) >= 1.15
+-	[Terraform](https://www.terraform.io/downloads.html) >= 1.0.9
+-	[Go](https://golang.org/doc/install) >= 1.17
 
 ## Building The Provider
 
